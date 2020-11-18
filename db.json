@@ -1,0 +1,75 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Uma Breve História do Tempo",
+      "description": "Autor: Hawking, Stephen|Marca: Intrinseca",
+      "price": 45.9,
+      "image": "https://images2.imgbox.com/78/54/g9UcE9iL_o.jpg"
+    },
+
+    {
+      "id": 2,
+      "title": "Rápido e Devagar - Duas Formas de Pensar",
+      "description": "Autor: Kahneman, Daniel |Marca: Objetiva",
+      "price": 48.9,
+      "image": "https://images2.imgbox.com/38/93/BUKL4AEJ_o.jpg"
+    },
+    {
+      "id": 3,
+      "title": "A Vida Como Ela É... - Col. Nelson Rodrigues",
+      "description": "Autor: Rodrigues, Sônia|Marca: Nova Fronteira",
+      "price": 39.9,
+      "image": "https://images2.imgbox.com/6c/34/RFg6NUOB_o.jpg"
+    },
+    {
+      "id": 4,
+      "title": "O Poder do Hábito - Por Que Fazemos o Que Fazemos na Vida e Nos Negócios",
+      "description": "Autor: Duhigg, Charles|Marca: Objetiva",
+      "price": 48.9,
+      "image": "https://images2.imgbox.com/92/4f/KDtMPUf7_o.jpg"
+    },
+
+    {
+      "id": 5,
+      "title": "Mentes Brilhantes - Como Desenvolver Todo o Potencial do Seu Cérebro",
+      "description": "Autor: Dell'isola, Alberto|Marca: Universo Dos Livros",
+      "price": 39.9,
+      "image": "https://images2.imgbox.com/7f/c8/DZhGOKfi_o.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "A Guerra Dos Tronos - As Crônicas De Gelo e Fogo - Vol.1",
+      "description": "Autor: Martin, George R. R.|Marca: Suma De Letras",
+      "price": 51.9,
+      "image": "https://images2.imgbox.com/0e/bd/amJpp18m_o.jpg"
+    }
+  ]
+}
